@@ -26,7 +26,7 @@ Topics include:
 *   Epidemic propagation
 *   Climate modeling
 
-A previous [half-semester version of this course](/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/) focused on the application of computational thinking to the Covid-19 pandemic. 
+A previous [half-semester version of this course](/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020) focused on the application of computational thinking to the Covid-19 pandemic. 
 
 Teaching Team
 -------------
